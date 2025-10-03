@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 4600375550022401242}
   - component: {fileID: 2806242940192140523}
   m_Layer: 0
-  m_Name: Powerup
+  m_Name: Smash
   m_TagString: Powerup
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -121,4 +121,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7b2e1b22b8d4a44e8cd2172335efda0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  powerUpType: 1
+  powerUpType: 3

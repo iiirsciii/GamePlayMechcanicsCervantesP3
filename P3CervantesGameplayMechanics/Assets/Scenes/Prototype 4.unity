@@ -424,8 +424,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1.2
+  hangTime: 0
+  smashSpeed: 0
+  explosionForce: 0
+  explosionRadius: 0
   hasPowerup: 0
+  currentPowerUp: 2
   powerupIndicator: {fileID: 659864859}
+  rocketPrefab: {fileID: 6062104467789309049, guid: 972d03cb96e853b4b9264349dfa97315, type: 3}
 --- !u!1 &1211016355
 GameObject:
   m_ObjectHideFlags: 0
@@ -822,6 +828,9 @@ MonoBehaviour:
   powerupPrefab: {fileID: 8520103607888525917, guid: 1ef7420d258e42b4b951666d3cef6cfb, type: 3}
   enemyCount: 0
   waveNumber: 1
+  powerupPrefabs:
+  - {fileID: 8520103607888525917, guid: 1ef7420d258e42b4b951666d3cef6cfb, type: 3}
+  - {fileID: 8520103607888525917, guid: 28647f5d95dcc334684cde6a619da33f, type: 3}
 --- !u!4 &1436714053
 Transform:
   m_ObjectHideFlags: 0
