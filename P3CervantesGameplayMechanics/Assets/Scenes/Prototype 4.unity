@@ -366,7 +366,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e286ff57f373be740b2d9ed2a605ceb7, type: 2}
+  - {fileID: 2100000, guid: 4e4022ee3f771464584f319b29a49410, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -831,6 +831,7 @@ MonoBehaviour:
   powerupPrefabs:
   - {fileID: 8520103607888525917, guid: 1ef7420d258e42b4b951666d3cef6cfb, type: 3}
   - {fileID: 8520103607888525917, guid: 28647f5d95dcc334684cde6a619da33f, type: 3}
+  - {fileID: 1192983798335586, guid: 9e928de923724f54ea836e735efdd8b6, type: 3}
 --- !u!4 &1436714053
 Transform:
   m_ObjectHideFlags: 0
